@@ -1,0 +1,21 @@
+<!DOCTYPE html>  
+<html lang= "en"> 	
+   <head>
+        <meta charset="UTF-8">
+	<title> Contact</title>
+<head>
+
+<body>
+<h1>Contact</h1>
+    <p>
+        <h4>Email</h4>
+            <ul>
+                <li>Exergesales@gmail.com</li>
+            </ul>
+        <h4>Number</h4>
+            <ul>
+                <li>(714) 858-7480</li>
+            </ul>
+    </p>
+</body>
+</html> 	
